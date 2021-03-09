@@ -1,0 +1,77 @@
+h1 {
+    color: #285f63;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #fa98a1;
+}
+
+h2 {
+    color: brown;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+ol {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Lobster', cursive;
+
+}
+
+h3 {
+    color: #541e69;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+h4 {
+    color: #5c0d27;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h5 {
+    color: #0d5c0e;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+title {
+    color: #285f63;
+    font-size: 30px;
+}
+
+img {
+    height: 200px;
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+button {
+    background-color: pink;}
+
+button:hover {
+                background-color: orange;
+            }
+.dog{
+    background-color: #d192a5;
+    border:20px ridge red;
+}
